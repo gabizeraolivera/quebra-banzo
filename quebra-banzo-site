@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quebra-Banzo - Instrumentos Musicais para Capoeira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .whatsapp {
+            display: block;
+            margin: 20px auto;
+            text-align: center;
+        }
+        .whatsapp a {
+            text-decoration: none;
+            color: white;
+            background-color: #25D366;
+            padding: 15px 30px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Quebra-Banzo</h1>
+    <p>Instrumentos Musicais para Capoeira</p>
+</header>
+
+<nav>
+    <a href="#produtos">Produtos</a>
+    <a href="#sobre">Sobre Nós</a>
+    <a href="#contato">Contato</a>
+</nav>
+
+<section id="produtos">
+    <h2>Nossos Produtos</h2>
+    <p>Oferecemos instrumentos artesanais de capoeira, incluindo:</p>
+    <ul>
+        <li><strong>Berimbau:</strong> Feito com madeira de biriba ou canduru, acompanha arame, caxixi e pedra.</li>
+        <li><strong>Caxixi:</strong> Trançado com junco sintético ou cipó natural.</li>
+        <li><strong>Reco-reco:</strong> De bambu, acompanha baqueta.</li>
+        <li><strong>Agogô:</strong> Feito de bambu, com baqueta inclusa.</li>
+    </ul>
+</section>
+
+<section id="sobre">
+    <h2>Sobre Nós</h2>
+    <p>Com mais de 10 anos de experiência, oferecemos qualidade sonora incomparável e acabamento fino. Todos os materiais são colhidos localmente, com responsabilidade e cuidado, pelo próprio artesão. Valorizamos a tradição e a natureza.</p>
+</section>
+
+<section id="contato">
+    <h2>Entre em Contato</h2>
+    <p>Para adquirir nossos produtos, entre em contato conosco pelo WhatsApp:</p>
+    <div class="whatsapp">
+        <a href="https://wa.link/muspve" target="_blank">Fale Conosco no WhatsApp</a>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2026 Quebra-Banzo. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
